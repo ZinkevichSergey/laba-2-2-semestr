@@ -1,1 +1,1 @@
-# laba-2-2-semestr
+# Krod_pandas
